@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yanamadala Nipun Sai</h1>
 <h3 align="center">A passionate software developer from India, interested in Frontend, Full Stack, and Data rolesA passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [ModelDock – An AI-Driven Model Control Plane A full-stack platform for managing the complete machine learning lifecycle, including model training, versioning, deployment, monitoring, and real-time insights through an interactive dashboard.](https://github.com/Nipun1311/MlProject)
+- 🔭 I’m currently working on [ModelDock – An AI-Driven Model Control Plane A full-stack platform](https://github.com/Nipun1311/MlProject) for managing the complete machine learning lifecycle, including model training, versioning, deployment, monitoring, and real-time insights through an interactive dashboard.(https://github.com/Nipun1311/MlProject)
 
 - 🌱 I’m currently learning **Advanced React patterns, backend API design, data analysis techniques, machine learning fundamentals, and system design principles.**
 
