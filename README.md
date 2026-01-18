@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nipunsaiyanamadala@gmail.com**
 
-- 📄 Know about my experiences [https://pdflink.to/389ef653/](https://pdflink.to/389ef653/)
+- 📄 Know about my experiences [Resume](https://pdflink.to/389ef653/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
