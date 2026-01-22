@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ModelDock – An AI-Driven Model Control Plane A full-stack platform](https://github.com/Nipun1311/MlProject) for managing the complete machine learning lifecycle, including model training, versioning, deployment, monitoring, and real-time insights through an interactive dashboard.
 
-- 🌱 I’m currently learning **Advanced React patterns, backend API design, data analysis techniques, machine learning fundamentals, and system design principles.**
+- 🌱 I’m currently learning **Advanced React patterns, backend API design, data analysis techniques , and machine learning fundamentals**
 
 - 👯 I’m looking to collaborate on **Frontend-heavy applications, full-stack products, analytics dashboards, and data-driven platforms that solve real-world problems.**
 
